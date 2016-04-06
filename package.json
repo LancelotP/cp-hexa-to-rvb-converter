@@ -1,0 +1,26 @@
+{
+  "name": "cp-hexa-to-rvb-converter",
+  "version": "1.0.0",
+  "description": "Coderpower Challenge",
+  "main": "sources/converter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LancelotP/cp-hexa-to-rvb-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LancelotP/cp-hexa-to-rvb-converter/issues"
+  },
+  "homepage": "https://github.com/LancelotP/cp-hexa-to-rvb-converter#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
